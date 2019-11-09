@@ -1,0 +1,8 @@
+From: "Ganesh Khatal" <gkkhatal@gmail.com>
+To: "Triggers" <trigger@recipe.ifttt.com>
+Subject: 1470 is Created
+
+Hi,
+I’m sending this mail with curl thru my gmail account.
+1470 is Created
+Bye!
